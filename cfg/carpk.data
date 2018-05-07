@@ -1,0 +1,6 @@
+classes= 2
+train  = /l/vision/v5/chen478/FALL2017/darknet_carpk/data/train
+valid  = /l/vision/v5/chen478/FALL2017/darknet_carpk/data/test
+names = data/carpk.names
+backup = /l/vision/v5/chen478/backup
+
